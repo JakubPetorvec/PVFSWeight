@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VUKVWeightApp", "VUKVWeightApp.csproj", "{38D11126-E68C-B1DC-F96F-4F08D000336A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D11126-E68C-B1DC-F96F-4F08D000336A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D11126-E68C-B1DC-F96F-4F08D000336A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D11126-E68C-B1DC-F96F-4F08D000336A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D11126-E68C-B1DC-F96F-4F08D000336A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074A3D6D-D21C-4E87-B69C-1701B4A03C63}
+	EndGlobalSection
+EndGlobal
