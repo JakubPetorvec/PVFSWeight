@@ -1,0 +1,50 @@
+# =========================
+# .NET / Visual Studio
+# =========================
+
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+*.log
+
+# NuGet
+*.nupkg
+packages/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+
+# Publish
+publish/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Local settings
+appsettings.Development.json
+
+# Crash logs / local files
+crashlog.txt
+
+# Temporary files
+*.tmp
+*.temp
